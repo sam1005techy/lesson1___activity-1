@@ -1,0 +1,9 @@
+print("sanaa")
+print("My hobby is to draw")
+
+#print helps to print out put
+
+print(74 + 32)
+
+#performing and printing out simple calculations
+print("The result of 3 + 5 is", 3 + 5)
